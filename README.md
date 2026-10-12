@@ -2,6 +2,12 @@
 
 Official implementation of CCSNet: Connectivity-Based Curvature Spectrum for Protein–Ligand Binding Affinity Prediction.
 
+## Supplementary Material
+
+The supplementary material for this paper is available at:
+
+[https://github.com/Peng-Fei-Sun/CCSNet-Supplementary](https://github.com/Peng-Fei-Sun/CCSNet-Supplementary)
+
 ---
 
 ## Setup Environment
@@ -48,9 +54,24 @@ python train.py
 
 ---
 
+## Contact
+
+For questions regarding this work, please contact:
+
+**Peng-Fei Sun**  
+sunpf6@mail.sysu.edu.cn
+
+---
+
 ## Citation
 
-Coming soon.
+```bibtex
+@ARTICLE{CCSNet2026,
+  author={Sun, Peng-Fei and Ren, Chuan-Xian and Yan, Hong},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  title={Connectivity-Based Curvature Spectrum for Protein–Ligand Binding Affinity Prediction},
+  year={2026},
+  doi={10.1109/JBHI.2026.3735035}
+}
 
-<br>
 
